@@ -1,5 +1,5 @@
 body{
-    background-color: red;
+    background-color: grey;
 }
 .topnav {
     background-color: '';
@@ -41,7 +41,7 @@ body{
       border-bottom: 2px solid #080808;
     }
     input[type=button] {
-      background-color: red;
+      background-color: '';
       border-radius: 10%;
       color: #080808;
       padding:  10px 20px;
@@ -61,7 +61,7 @@ body{
       resize: none;
     }
     .input[type=button] a:hover {
-      background-color: red;
+      background-color: '';
       color: #080808;
     }
   
