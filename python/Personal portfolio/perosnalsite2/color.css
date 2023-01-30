@@ -35,11 +35,13 @@ body{
     width: 220px;
     height: 250px;
   }
-
+#secnd{
+  font-size: 30px;
+}
   /* text */
 #spidy{
   font-size: 30px;
-  color: rgb(136, 121, 121);
+  color: rgb(203, 203, 69);
 }
 #txthead{
   font-size: 20px;
