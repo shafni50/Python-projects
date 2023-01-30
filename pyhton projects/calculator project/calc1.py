@@ -1,7 +1,6 @@
 ####part 1####
 
 #TODO: Write the functions for arithmatic operations here
-#These functions should cover Task 2
 def add(a,b):
     return a+b
 def substract(a, b):
@@ -19,8 +18,6 @@ def remainder(a,b):
     return a%b
 
 #-------------------------------------
-#TODO: Write the select_op(choice) function here
-#This function sould cover Task 1 (Section 2) and Task 3
 def select_op(choice):
     if choice  == '#':
         return -1
@@ -76,8 +73,7 @@ def select_op(choice):
 
 #End the select_op(choice) function here
 #-------------------------------------
-#This is the main loop. It covers Task 1 (Section 1)
-#YOU DO NOT NEED TO CHANGE ANYTHING BELOW THIS LINE
+#This is the main loop. 
 while True:
   print("Select operation.")
   print("1.Add      : + ")
