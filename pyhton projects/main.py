@@ -1,3 +1,5 @@
+#THIS IS A SIMPLE QUIZ GAME CREATED BY ME.. HOPE YOU ENJOY
+
 print('Welcome!')
 print('This is a quiz game')
 
